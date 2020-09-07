@@ -11,7 +11,7 @@ public class CollectDrop : MonoBehaviour
         if(collision.collider.TryGetComponent<Player>(out Player player))
         {
             player.AddScore(_points);
-            GameObject.Destroy(this);
+            Destroy(gameObject);
         }
     }
 }
