@@ -68,7 +68,7 @@
     <Compile Include="Assets\Scripts\EnemyPath.cs" />
     <Compile Include="Assets\Scripts\EnemyRepulse.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\PlayerMoveController.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Terrain.cs" />
     <Reference Include="UnityEngine">
